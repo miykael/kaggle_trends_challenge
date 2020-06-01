@@ -1,4 +1,4 @@
-        ## Quick Notebook visualization
+## Quick Notebook visualization
 
 NBViewer Link for Notebooks: https://nbviewer.jupyter.org/github/miykael/kaggle_trends_challenge/tree/master/
 
